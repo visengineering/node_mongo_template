@@ -1,0 +1,14 @@
+{
+  "host": "localhost",
+  "port": 3000,
+  "secretKey": "secret",
+  "frontendUrl": "http://localhost:3001",
+  "debug": true,
+  "intervals": {
+    "testInterval": "30000"
+  },
+  "database": {
+    "client": "mongodb",
+    "connection": "mongodb://localhost:27017/bar"
+  }
+}

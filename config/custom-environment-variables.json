@@ -1,0 +1,11 @@
+{
+  "host": "HOST",
+  "port": "PORT",
+  "intervals": {
+    "testInterval": ""
+  },
+  "database": {
+    "client": "DB_CLIENT",
+    "connection": "DB_CONNECTION_STRING"
+  }
+}
